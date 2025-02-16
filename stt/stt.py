@@ -5,7 +5,7 @@ import time
 from deepgram import DeepgramClient, LiveTranscriptionEvents, LiveOptions
 
 # Your Deepgram API key
-API_KEY = "6b2c550b20dadb5043f93af9450ef68350e77473"  # <-- Update this with your API key
+API_KEY = "damn it"  # <-- Update this with your API key
 
 # WebSocket URL
 URL = "wss://api.deepgram.com/v1/listen"
